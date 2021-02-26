@@ -1,10 +1,25 @@
-
 *{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
     font-family: 'Lato', sans-serif;
 }
+
+.max-width{
+    max-width: 1300px;
+    width: 100%; 
+    /* padding: 0 20px; */
+    margin: auto;
+}
+
+.pages{
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
 
 /* navbar */
 
@@ -37,5 +52,8 @@
 /* home */
 
 .home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
     text-align: center;
 }
