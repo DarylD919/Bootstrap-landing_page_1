@@ -57,3 +57,14 @@
     justify-content: center;
     text-align: center;
 }
+
+
+/* images */
+
+img{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 700px;
+}
