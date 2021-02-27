@@ -60,6 +60,10 @@
 
 /* employees */
 
+.pro-captures h1{
+    text-align: center;
+}
+
 .pro-captures h5, p {
     color: azure;
 }
@@ -72,6 +76,6 @@ img{
     background-size: cover;
     object-fit: cover;
     background-repeat: no-repeat;
-    width: 600px;
-    height: 700px;
+    width: 200px;
+    height: 300px;
 }
