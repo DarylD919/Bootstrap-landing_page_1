@@ -58,13 +58,20 @@
     text-align: center;
 }
 
+/* employees */
+
+.pro-captures h5, p {
+    color: azure;
+}
+
 
 /* images */
 
 img{
     background-position: center;
     background-size: cover;
+    object-fit: cover;
     background-repeat: no-repeat;
-    width: 500px;
+    width: 600px;
     height: 700px;
 }
